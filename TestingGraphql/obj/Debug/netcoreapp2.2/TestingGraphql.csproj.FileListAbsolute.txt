@@ -1,0 +1,14 @@
+C:\Users\migue\source\repos\TestingGraphql\TestingGraphql\bin\Debug\netcoreapp2.2\TestingGraphql.deps.json
+C:\Users\migue\source\repos\TestingGraphql\TestingGraphql\bin\Debug\netcoreapp2.2\TestingGraphql.runtimeconfig.json
+C:\Users\migue\source\repos\TestingGraphql\TestingGraphql\bin\Debug\netcoreapp2.2\TestingGraphql.runtimeconfig.dev.json
+C:\Users\migue\source\repos\TestingGraphql\TestingGraphql\bin\Debug\netcoreapp2.2\TestingGraphql.dll
+C:\Users\migue\source\repos\TestingGraphql\TestingGraphql\obj\Debug\netcoreapp2.2\TestingGraphql.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\TestingGraphql\TestingGraphql\obj\Debug\netcoreapp2.2\TestingGraphql.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\TestingGraphql\TestingGraphql\obj\Debug\netcoreapp2.2\TestingGraphql.RazorAssemblyInfo.cache
+C:\Users\migue\source\repos\TestingGraphql\TestingGraphql\obj\Debug\netcoreapp2.2\TestingGraphql.RazorAssemblyInfo.cs
+C:\Users\migue\source\repos\TestingGraphql\TestingGraphql\obj\Debug\netcoreapp2.2\TestingGraphql.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\TestingGraphql\TestingGraphql\obj\Debug\netcoreapp2.2\TestingGraphql.AssemblyInfo.cs
+C:\Users\migue\source\repos\TestingGraphql\TestingGraphql\obj\Debug\netcoreapp2.2\TestingGraphql.RazorTargetAssemblyInfo.cache
+C:\Users\migue\source\repos\TestingGraphql\TestingGraphql\bin\Debug\netcoreapp2.2\TestingGraphql.pdb
+C:\Users\migue\source\repos\TestingGraphql\TestingGraphql\obj\Debug\netcoreapp2.2\TestingGraphql.dll
+C:\Users\migue\source\repos\TestingGraphql\TestingGraphql\obj\Debug\netcoreapp2.2\TestingGraphql.pdb
